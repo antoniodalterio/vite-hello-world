@@ -14,6 +14,8 @@ export default {
 
 <style scope>
 h1 {
+  text-align: center;
   font-size: 3.125rem;
+  color: rgb(0, 184, 0);
 }
 </style>
